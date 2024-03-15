@@ -1,0 +1,73 @@
+Here's the list of evaluative linguistic instances corresponding to Affect, Judgment, and Appreciation, as per the Appraisal Theory outlined by Martin and White, with their assigned sub-values:
+
+
+- problem (disquiet) - [00:17]
+- worry (disquiet) - [00:26]
+- hard (difficulty) - [00:26, 00:42, 06:20, 12:46, 15:05]
+- easy (ease) - [03:07, 13:04]
+- loves (cheer) - [03:55, 04:46]
+- mean (antipathy) - [06:23]
+- naughty (antipathy) - [06:23, 06:44]
+- fine (satisfaction) - [08:54]
+- innocent (trust) - [10:28, 12:39]
+- wrong (dissatisfaction) - [13:06]
+- alarming (disquiet) - [13:35]
+- worry (disquiet) - [14:16]
+- impressive (satisfaction) - [14:38]
+- fairer (satisfaction) - [15:05]
+
+
+- normality (normality) - [00:17]
+- equipped (capacity) - [01:12]
+- amazing (capacity) - [01:12]
+- good (tenacity) - [03:17, 08:02, 12:09]
+- long (tenacity) - [03:47, 07:26]
+- mean (propriety) - [06:23, 06:44]
+- naughty (propriety) - [06:23, 06:44]
+- blame (veracity) - [08:54, 09:08, 09:35, 10:05, 10:28, 12:09, 12:27]
+- wrong (propriety) - [13:06, 15:05]
+- incredible (normality) - [14:16]
+- fair (propriety) - [15:05]
+
+
+- difficult (complexity) - [03:10]
+- interesting (impact) - [03:17]
+- remarkable (quality) - [03:47]
+- significant (impact) - [05:07]
+- special (quality) - [05:18, 07:07]
+- better (quality) - [06:50, 07:00]
+- different (complexity) - [08:02]
+- normal (balance) - [12:09]
+- change (impact) - [12:47]
+- paradigm shift (complexity) - [16:15]
+- hard (difficulty) - [16:22]
+- great (quality) - [16:27]
+
+Please note that the instances are provided with their timestamps and evaluative words have been chosen and categorized according to their most prominent implied meaning within the context of each utterance.
+
+
+Here is the list of evaluative linguistic instances of Affect, Judgement, and Appreciation from the provided text, each with one of the sub-values assigned as requested:
+
+
+- problem (disinclination - fear)
+- hard (disinclination - fear)
+- interesting (satisfaction - interest)
+- love (inclination - desire)
+- Yum yum yum yum yum (happiness - cheer)
+- mean (unhappiness - antipathy)
+- naughty (unhappiness - antipathy)
+
+
+- equipped (social esteem - capacity)
+- good (social esteem - normality)
+- wrong (social sanction - propriety)
+
+
+- amazing (reaction - impact)
+- simple (composition - complexity)
+- adult-like (composition - balance)
+- impressive (reaction - impact)
+- innocent (valuation - positive)
+- paradigm shift (reaction - impact)
+
+If desired, I could provide sentences or phrases for the context around each evaluative linguistic instance, however, for the current task I only listed them out independently to adhere to the request of not annotating whole sentences.

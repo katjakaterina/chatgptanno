@@ -1,0 +1,66 @@
+Certainly! I'll go through the text and annotate evaluative linguistic instances of Affect, Judgment, and Appreciation, as described in the sub-values you've provided. I'll assign only one of the sub-values to each instance and focus on verbs, nouns, adjectives, and adverbs.
+
+Affect:
+- happy (cheer) - "Thank you."
+- satisfaction (pleasure) - "happy"
+- dissatisfaction (displeasure) - "mad"
+- dissatisfaction (displeasure) - "upsets"
+- security (confidence) - "secure"
+- insecurity (apprehension) - "dangerous"
+- dissatisfaction (misery) - "cost"
+- dissatisfaction (displeasure) - "difficult"
+- dissatisfaction (displeasure) - "compromised"
+- dissatisfaction (displeasure) - "tougher time"
+
+Judgment:
+- social esteem (capacity) - "democratized"
+- social esteem (capacity) - "strong encryption technology"
+- social sanction (propriety) - "lawful"
+- social sanction (impropriety) - "bad guys"
+- social sanction (veracity) - "compromised"
+- social sanction (propriety) - "surveilled"
+- social esteem (capacity) - "secure"
+- social esteem (tenacity) - "tougher"
+
+Appreciation:
+- reaction (impact) - "changed"
+- reaction (quality) - "strong"
+- reaction (impact) - "built-in"
+- reaction (quality) - "terrorist"
+- reaction (quality) - "serious"
+- composition (complexity) - "encrypted"
+- reaction (impact) - "compromised"
+- valuation - "better"
+- reaction (quality) - "secure"
+- reaction (impact) - "thwart"
+- reaction (impact) - "wiretapped"
+- reaction (quality) - "secure"
+
+Please note that some words could align with more than one sub-value as affect, judgment, and appreciation can be subjective and context-dependent. The annotations provided align with the most apparent sub-values in the given context. The list might not be exhaustive as some phrases could be interpreted in various ways according to the Appraisal Theory.
+
+
+I'll list the instances of language that pertain to the sub-values of Affect, Judgement, and Appreciation according to Martin and White's Appraisal Theory as seen in the text provided:
+
+
+- happy: "happy"line 02:57, implied within "extremely sympathetic")
+- unhappiness: "extremely mad" (line 02:09)
+- dissatisfaction: "not very happy" (line 02:09)
+- insecurity: "dangerous" (line 02:57, describing "time" and "world")
+- insecurity: "bad" (line 02:57, within "bad people")
+- disquiet: "mad" (line 02:09)
+- disquiet: "upsets" (line 02:09)
+- security: "secure" (line 05:34, within "secure our telephone calls")
+
+
+- capacity: "able" (line 01:49, within "not able to even see")
+- capacity: "tougher" (line 04:49, within "tougher time catching")
+- propriety: "lawful" (line 04:29, within "lawful surveillance requests")
+- veracity: "compromised" (line 04:08, and line 04:29)
+
+
+- impact: "democratized" (line 02:38)
+- quality: "strong" (used multiple times to describe encryption technology, e.g., line 01:07)
+- complexity: "built-in" (line 00:38, referring to surveillance features)
+- balance: "controlling" (line 04:29, within "controlling who's going to go through it")
+
+These instances highlight the evaluative language within the text corresponding to the various dimensions and sub-dimensions of affect, judgement, and appreciation in Appraisal Theory. Each term is labelled with the appraisal sub-value that seems most appropriate based on the contextual use in the text provided.

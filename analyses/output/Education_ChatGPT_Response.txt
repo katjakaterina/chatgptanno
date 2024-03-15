@@ -1,0 +1,77 @@
+In accordance with the request to assign one of the sub-values of Affect, Judgement, and Appreciation to evaluative linguistic instances, and focusing on verbs, nouns, adjectives, and adverbs, here is a list that annotates instances Affect, Judgement, and Appreciation in the provided text, along with the assigned sub-values:
+
+Affect:
+1. fascinating (happiness - cheer)
+2. surprised (insecurity - disquiet)
+3. interesting (satisfaction - interest)
+4. magical (happiness - cheer)
+5. nice (happiness - cheer)
+6. cool (satisfaction - pleasure)
+7. impressive (satisfaction - interest)
+8. fail (dissatisfaction - displeasure)
+9. fun (happiness - cheer)
+10. love (inclination - desire)
+11. wrong (dissatisfaction - displeasure)
+12. love (inclination - desire)
+13. fallible (insecurity - disquiet)
+14. err (dissatisfaction - displeasure)
+15. mistakes (dissatisfaction - displeasure)
+16. biased (dissatisfaction - displeasure)
+17. genius (security - confidence)
+
+Judgement:
+1. logical (social esteem - capacity)
+2. right (social sanction - veracity)
+3. wrong (social sanction - veracity)
+4. impressive (social esteem - capacity)
+5. powerful (social esteem - capacity)
+6. genius (social esteem - capacity)
+7. elegant (social sanction - propriety)
+8. quirky (social sanction - propriety)
+9. buggy (social sanction - propriety)
+10. rational (social sanction - veracity)
+
+Appreciation:
+1. powerful (valuation)
+2. remarkable (valuation)
+3. extraordinary (impact - quality)
+4. staggering (valuation)
+5. sophisticated (composition - complexity)
+6. innovative (composition - complexity)
+7. technological (composition - complexity)
+8. insightful (composition - complexity)
+
+Please note that the instances are derived from the context in which these words are used in the text, and the sub-values assigned are interpretations based on that context. Only the words that clearly mapped onto the sub-values were included in the list.
+
+
+
+Below is the list of evaluative linguistic instances categorized by Affect, Judgement, and Appreciation and their corresponding sub-values, taken from the provided text:
+
+
+1. fascinating (inclination/desire) - "There's something fascinating about science."
+2. right (security/confidence) - "Twain meant it as a joke, of course, but he's right."
+3. fascinating (inclination/desire) - "Because, it turns out that the fascinating thing about science."
+4. fascinating (inclination/desire) - "a fascinating thing about children."
+5. magical (satisfaction/interest) - "we can hardly make babies more magical than they already are."
+6. cool (satisfaction/pleasure) - "(Ball squeaks) Cool."
+7. wow (satisfaction/interest) - "See this one? (Ball squeaks) Wow."
+8. nice (satisfaction/pleasure) - "All right, it's nice that babies."
+9. impressive (satisfaction/interest) - "it's impressive that babies can learn."
+10. wrong (dissatisfaction/displeasure) - "Things are going wrong for him."
+11. fun (satisfaction/pleasure) - "And this leads to a fun prediction."
+12. staggering (satisfaction/interest) - "And indeed, there have been staggering discoveries in neuroscience."
+
+
+1. wholesale (capacity) - "One gets such wholesale returns of conjecture."
+2. successful (capacity) - "Hyowon is going to try to make the toy go and succeed."
+3. failed (capacity) - "I am then going to try twice and fail both times."
+4. succeed (capacity) - "and Hyowon is going to try again and succeed."
+5. succeeds (capacity) - "Hyowon is going to succeed once."
+6. fails (capacity) - "and so am I. And this suggests it doesn't matter who tries this toy, the toy is broken."
+
+
+1. clever (quality) - "Folks, human minds do not only learn from small amounts of data. Human minds think of altogether new ideas."
+2. powerful (impact) - "In the years to come, we're going to see technological innovations beyond anything I can even envision, but we are very unlikely to see anything even approximating the computational power of a human child."
+3. extraordinary (quality) - "the bigger story is how extraordinary, and there really is genius there that is underappreciated."
+
+Please note that this assessment of linguistic instances is subjective and based on the interpretive lens of Appraisal Theory; different interpretations may assign some instances to other sub-values.

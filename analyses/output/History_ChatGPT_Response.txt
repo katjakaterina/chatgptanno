@@ -1,0 +1,82 @@
+Based on the text provided and following the Appraisal Theory developed by Martin and White (2005) focusing on verbs, nouns, adjectives, and adverbs that correspond to Affect, Judgment, and Appreciation categories and their sub-values, here a list of evaluative linguistic instances annotated according to the theory:
+
+
+- happiness (cheer and affection): "cheering" [cheer], "Thank you" [affection], "beautiful" [cheer], "fun" [cheer], "fired up" [affection], "loving" [affection].
+- unhappiness (misery and antipathy): "horrible" [misery].
+- satisfaction (interest and pleasure): "hip-hop" [pleasure], "interest" [interest], "hipness" [interest], “amazing” [pleasure].
+- dissatisfaction (ennui and displeasure): "overwhelmed" [displeasure].
+- security (confidence and trust): “confident” [confidence].
+- insecurity (disquiet and apprehension): "disillusioned" [disquiet], "desperation" [apprehension].
+  
+
+- social esteem (normality, capacity, tenacity): "radicals" [capacity], "smart" [capacity], 
+- social sanction (veracity and propriety): "misogynist" [impropriety], "noble" [propriety].
+
+
+- reaction (impact, quality): "profound" [impact], "super-smart" [quality], "greatest" [impact], "soothing" [quality].
+- composition (balance and complexity): "paradox" [complexity], "esoteric" [complexity].
+- valuation: "important" [valuation], "incredible" [valuation], "deeply influenced" [valuation].
+
+Please note that the assignment of a sub-value to each evaluative linguistic instance is based on the context and subjective interpretation of the text. Only one value is assigned to each instance, and the interpretation might vary depending on the reader's perception.
+
+
+
+Based on the provided text and the request to identify instances of Affect, Judgement and Appreciation from Appraisal Theory developed by Martin and White (2005), here is the list of evaluative linguistic instances:
+
+Affect:
+1. "cheering" - happiness (cheer)
+2. "radicals" - inclination (desire)
+3. "unfinished legacy" - dissatisfaction (displeasure)
+4. "horrible, beautiful" - dissatisfaction (displeasure), happiness (cheer)
+5. "suspected" - security (trust)
+6. "covertly" - insecurity (apprehension)
+7. "hot" - satisfaction (interest)
+8. "fun" - satisfaction (pleasure)
+9. "overwhelmed" - dissatisfaction (displeasure)
+10. "fired up" - satisfaction (interest)
+11. "desperation" - insecurity (disquiet)
+12. "tears" - unhappiness (misery)
+13. "desperation" - dissatisfaction (displeasure)
+14. "arrogant overestimation" - insecurity (disquiet)
+15. "servile underestimation" - insecurity (disquiet)
+16. "desperation" - insecurity (disquiet)
+17. "huge impact" - satisfaction (pleasure)
+18. "humanizing force" - satisfaction (interest)
+19. "soothing" - security (trust)
+20. "embracing the paradox" - satisfaction (pleasure)
+
+Judgement:
+1. "radicals" - social esteem (capacity)
+2. "got rich" - social esteem (capacity)
+3. "very heavy" - social esteem (tenacity)
+4. "rejecting the past" - social sanction (propriety)
+5. "super-smart, amazing" - social esteem (capacity)
+6. "socialized to believe that we were special" - social esteem (normality)
+7. "expectations" - social esteem (capacity)
+8. "apathetic" - social sanction (veracity)
+9. "misogynist" - social sanction (propriety)
+10. "hero" - social esteem (capacity)
+11. "icon" - social esteem (capacity)
+12. "smallness" - social esteem (capacity)
+13. "greatness" - social esteem (capacity)
+14. "noble" - social sanction (propriety)
+15. "failure" - social sanction (propriety)
+16. "broken systems" - social sanction (propriety)
+17. "kind" - social sanction (propriety)
+
+Appreciation:
+1. "esoteric documentaries" - reaction (quality)
+2. "online organizing" - composition (complexity)
+3. "straightforward political impact" - reaction (impact)
+4. "merchandise pulled off the shelves" - reaction (impact)
+5. "thousands of women and men" - composition (complexity)
+6. "consciousness raising" - reaction (quality)
+7. "immoral and ongoing wealth disparity" - reaction (quality)
+8. "feminist publication" - reaction (quality)
+9. "activist work" - composition (complexity)
+10. "daily acts" - composition (complexity)
+11. "activist influences" - reaction (quality)
+12. "meaningful life" - valuation
+13. "challenge and reward" - composition (balance)
+
+Please note that the assignment of sub-values is subjective, and another individual could interpret the text differently, assigning different sub-values to the instances.

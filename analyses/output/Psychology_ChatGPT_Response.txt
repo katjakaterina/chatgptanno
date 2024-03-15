@@ -1,0 +1,95 @@
+Given the complexity of the task, which involves a deep semantic analysis to identify and categorize linguistic instances according to Appraisal Theory, please note that this annotation will involve a level of interpretation. Here is a list of evaluative linguistic instances categorizing them Affect, Judgement, and Appreciation, assigning sub-values where applicable:
+
+
+- "killer" (disinclination - fear)
+- "psychopathic killers" (disinclination - fear)
+- "normal" (security - confidence)
+- "aggressive" (disinclination - fear)
+- "traumatic" (disinclination - fear)
+- "violence" (disinclination - fear)
+- "disaster" (disinclination - fear)
+- "tough guy" (inclination - desire)
+- "violence" (disinclination - fear)
+- "murderers" (disinclination - fear)
+- "conscientious objectors" (security - trust)
+- "pussycats" (security - trust)
+- "concerned" (insecurity - apprehension)
+- "bad news" (dissatisfaction - displeasure)
+
+
+- "behavior" (normality)
+- "murderer" (veracity)
+- "serial killer" (veracity)
+- "violence genes" (normality)
+- "conscientious objectors" (propriety)
+- "matricide" (veracity)
+- "witch trials" (propriety)
+- "concerned" (normality)
+- "close as can be" (normality)
+
+
+- “interesting” (reaction - impact)
+- “mind” (reaction - quality)
+- “key thing” (reaction - impact)
+- "passed" (valuation)
+- "relaxed" (reaction - quality)
+- "tinderbox" (reaction - impact)
+- "historical book" (composition - complexity)
+- "PET scans" (reaction - quality)
+- "genetic analysis" (reaction - quality)
+- "patterns" (composition - balance)
+
+This list only contains instances I've identified as evaluative, applying a single sub-value for each instance, as requested. Since Appraisal Theory involves subjective interpretation, other analysts might produce a slightly different categorization.
+
+
+Analyzing the provided text for instances of evaluative language according to the Appraisal Theory developed by Martin and White (2005), specifically focusing on linguistic instances that express Affect, Judgment, and Appreciation, results in the following annotations:
+
+Affect:
+- "interest" (satisfaction): "Exploring" [00:00]
+- "trust" (security): "colleagues" [00:28]
+- "misery" (unhappiness): "killer" [00:28], "killers" [01:26], "murderer" [01:26]
+- "displeasure" (dissatisfaction): "damage" [01:26]
+- "disquiet" (insecurity): "traumatic" [02:46]
+- "apprehension" (insecurity): "disaster" [03:13]
+- "cheer" (happiness): "good news" [04:17]
+- "misery" (unhappiness): "bad news" [04:17]
+- "antipathy" (unhappiness): "murderers" [04:51]
+- "affection" (happiness): "close as can be" [05:19]
+
+Judgment:
+- "capacity" (social esteem): "neuroscientist" [00:00], "professor" [00:00]
+- "normality" (social esteem): "normal family" [03:54]
+- "veracity" (social sanction): "blame" [04:17]
+- "propriety" (social sanction): "conscientious objectors" [04:51]
+
+Appreciation:
+- "quality" (reaction): "analyzed" [00:28], "blind experiments" [00:46], "key" [01:55]
+- "complexity" (composition): "patterns" [02:24], "complicated" [04:17]
+
+Please note that the assignment of sub-values is interpretative and subjective, and a different evaluator may assign different sub-values to the same evaluative instances. Furthermore, the focus was on verbs, nouns, adjectives, and adverbs as per the instruction, although context around these words plays a significant in determining their evaluative nature.
+
+
+Based on the given sub-values under Affect, Judgement, and Appreciation within the Appraisal Theory framework, let's annotate the evaluative linguistic instances found in the text:
+
+Affect (evaluative linguistic instances related to emotion):
+- fascinated ("Exploring"): inclination (desire)
+- intrigued ("analyzing"): inclination (desire)
+- concerned ("concerned"): insecurity (apprehension)
+
+Judgement (evaluative linguistic instances related to ethics or morality):
+- conscientious ("conscientious objectors"): social sanction (propriety)
+- tough ("some tough guy"): social esteem (tenacity)
+- aggressive ("very aggressive"): social esteem (capacity)
+- traumatic ("really traumatic"): social sanction (veracity)
+
+Appreciation (evaluative linguistic instances related to aesthetics or value):
+- interesting ("It's kind of interesting"): reaction (impact)
+- important ("most important part"): reaction (quality)
+- normal ("normal family"): reaction (quality)
+- blind ("blind experiments"): composition (complexity)
+- key ("A key thing is"): reaction (quality)
+- interesting ("that book is very interesting"): reaction (impact)
+- strange ("Killed Strangely"): reaction (quality)
+
+Please note that while some terms may seem to have evaluative connotations, not all can be clearly classified under Affect, Judgement, or Appreciation without further context. Furthermore, some instances might potentially fall under more than one sub-value, and the context of their use within the text is important to determine the most fitting sub-value for each instance. The assignment of sub-values here is done according to the content provided and the definitions of each sub-value within the Appraisal Theory as understood in the academic literature.
+Hier kannst Du Deine Anfrage stellen

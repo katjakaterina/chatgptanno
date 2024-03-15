@@ -1,0 +1,75 @@
+Based on the text provided, here's a list of evaluative linguistic instances related to Affect, Judgement, and Appreciation within the text, mapped to their respective sub-values:
+
+
+- settles in (inclination: desire- nice (inclination: desire)
+- miserable (unhappiness: misery)
+- angry (unhappiness: antipathy)
+- cried (unhappiness: misery)
+- sad (unhappiness: misery)
+
+
+- steals (social sanction: propriety)
+- make a stink (social sanction: propriety)
+- very, very nice people (social esteem: capacity)
+- valuable (social esteem: capacity)
+- terrible (social sanction: propriety)
+- highly unproductive (social esteem: normality)
+- no idea (social esteem: capacity)
+- very important (social esteem: capacity)
+- poorly run (social esteem: normality)
+- suffer (social sanction: propriety)
+
+
+- bad meetings (reaction: quality)
+- global epidemic (reaction: impact)
+- terrible new illness (reaction: quality)
+- self-inflicted wound (reaction: impact)
+- collaborative train wreck (reaction: quality)
+- fundamental belief (valuation)
+- very simple (composition: complexity)
+
+Remember that the associations and interpretations may have nuances, and evaluators could potentially assign different sub-values based on their perspective or the context of the language within the text.
+
+
+
+Based on the text you provided and the parameters of Martin and White's Appraisal Theory, focusing on Affect, Judgement, and Appreciation, here is the annotated list of evaluative linguistic instances:
+
+Affect (sub-value in brackets):
+
+- [displeasure]
+- steals [disinclination - desire]
+- need [desire]
+- wish [desire]
+- stand [confidence]
+- steal [disinclination - desire]
+- terrible [displeasure]
+- miserable [misery]
+- angry [antipathy]
+
+Judgment (sub-value in brackets):
+
+- steals (2nd instance) [veracity - whether it is accurate to call it stealing]
+- very, very nice [capacity]
+- important [normality]
+- well-run [capacity]
+- positive [propriety]
+- Mindless Accept Syndrome [propriety]
+- terrible [propriety]
+- moderator who has no idea [capacity]
+- participants who have no idea [capacity]
+- collapses [propriety]
+- poorly run [capacity]
+- powerless [capacity]
+- cure [capacity]
+
+Appreciation (sub-value in brackets):
+
+- bad meetings [quality]
+- highly unproductive session [quality]
+- epidemic [impact]
+- global problem with meetings [impact]
+- real sad [quality]
+- poorly run meetings (2nd instance) [quality]
+- fundamental belief [valuation]
+
+Please note that the assignment of sub-values may vary with interpretation since many words can reflect multiple facets of Affect, Judgment, or Appreciation. The context is also crucial; for example, the word "steals" could be seen as negatively charged (disinclination - desire) but also touches on veracity within social sanction, questioning if it’s actually accurate to describe the act as stealing within the metaphorical sense used.

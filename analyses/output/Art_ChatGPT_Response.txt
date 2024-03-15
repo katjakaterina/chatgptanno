@@ -1,0 +1,88 @@
+Below is a list of evaluative linguistic instances contained within the provided text. The instances are organized by the dimensions of Affect, Judgement, and Appreciation as per Appraisal Theory by Martin and White (2005). Each instance is identified by the word or phrase from text, followed by the assigned sub-value.
+
+
+- "Hello!" - Happiness (cheer)
+- "wonderful" - Satisfaction (pleasure)
+- "weird" - Insecurity (disquiet)
+- "people don't seem to understand me" - Unhappiness (antipathy)
+- "lack of understanding" - Unhappiness (antipathy)
+- "obliged" - Inclination (desire)
+- "empowering" - Security (confidence)
+- "discover themselves" - Security (trust)
+- "creative actors" - Happiness (affection)
+- "narrowest straw" - Dissatisfaction (displeasure)
+- "rich" - Satisfaction (pleasure)
+- "discover their own potential" - Security (confidence)
+- "unique" - Satisfaction (interest)
+- "fantastic" - Satisfaction (pleasure)
+- "amazing" - Satisfaction (interest)
+- "surprised" - Insecurity (disquiet)
+
+
+- "common kind of hybrid" - Social esteem (normality)
+- "interesting" - Social esteem (capacity)
+- "obliged" - Social sanction (propriety)
+- "empowering" - Social esteem (capacity)
+- "creative" - Social esteem (capacity)
+- "expert" - Social esteem (capacity)
+- "intelligent" - Social esteem (capacity)
+- "nonsense" - Social sanction (impropriety)
+- "challenges" - Social esteem (tenacity)
+- "profound" - Social esteem (capacity)
+
+
+- "wonderful picture" - Reaction (impact)
+- "expressive potential" - Reaction (quality)
+- "creative agency" - Valuation
+- "unseen space" - Reaction (quality)
+- "something real" - Valuation
+- "synesthesia" - Reaction (impact)
+- "tight coupling" - Composition (balance)
+- "curvature" - Composition (complexity)
+- "visual shadows" - Reaction (impact)
+- "tight coupling" - Composition (balance)
+- "magic light" - Reaction (quality)
+- "patterns" - Composition (balance)
+- "abstract" - Reaction (impact)
+- "profound amount" - Reaction (impact)
+- "technical" - Valuation
+- "creative" - Valuation
+- "recursive observation" - Composition (complexity)
+- "robotics" - Valuation
+- "simplest possible materials" - Composition (complexity)
+- "psycho-social gaze behaviors" - Valuation
+- "novel body language" - Reaction (impact)
+- "new creature" - Reaction (quality)
+
+Please note that some instances might be open to interpretation, and depending on the analysis, a different sub-value might be assigned. This list is based on my understanding of the text and the sub-values provided.
+
+
+Analyzing the given text based on Martin and White's Appraisal Theory, here is a list of evaluative linguistic instances attributed to Affect, Judgment, and Appreciation, along with one sub-value assigned to each instance:
+
+:
+- "wonderful" [happiness: cheer]
+- "lack of understanding" [dissatisfaction: displeasure]
+- "empowering" [security: confidence]
+- "enabling" [security: confidence]
+- "discover" [satisfaction: interest]
+- "creative" [satisfaction: pleasure]
+- "surprised" [insecurity: disquiet]
+
+:
+- "weird crack" [social sanction: propriety] - negative connotation implies a lack of social propriety in being understood
+- "obliged" [social sanction: propriety] - implies a moral or social expectation
+- "expert" [social esteem: capacity] - recognition of skills and capabilities
+- "intelligent" [social esteem: capacity]
+
+:
+- "rich kinds of interactive experiences" [reaction: impact]
+- "the narrowest straw" [composition: complexity]
+- "the oldest ways" [reaction: quality]
+- "fantastic research" [reaction: impact]
+- "creative agency" [valuation]
+- "real-time" [reaction: quality]
+- "profound" [reaction: impact]
+- "interesting" [reaction: impact]
+- "novel body language" [composition: balance] - in the context of creating something new and balanced in its form
+
+Please note that assigning sub-values is subject to interpretation, as some instances might seem to fit into more than one category or sub-value. Also, the text may feature other linguistic expressions that could be categorized under Affect, Judgment, and Appreciation, but without clear contextual cues are left unannotated.

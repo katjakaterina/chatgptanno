@@ -1,0 +1,67 @@
+- shocked (disquiet) - "The members of the Association are shocked"
+- amazed (happiness: cheer) - "These were brilliant, driven men who accomplished amazing things."
+- productive (happiness: cheer) - "I'm sure we could all be that productive"
+- angry (unhappiness: antipathy) - "The crowd grew angry"
+- happy (happiness: cheer) - "And I'm going to tell you today about four major changes to science these men made."
+- dismayed (unhappiness: misery) - "They would have been deeply dismayed by today's disjunction between science and the rest of culture."
+- shocked (disquiet) - "It's shocking to realize that only 28 percent of American adults"
+
+
+
+- talented (social esteem: capacity) - "those who studied the natural world were talented amateurs"
+- brilliant (social esteem: capacity) - "These were brilliant, driven men"
+- driven (social esteem: capacity) - "These were brilliant, driven men"
+- influential (social esteem: capacity) - "The problem was that an influential group at Oxford"
+- proper (social sanction: propriety) - "Previously, it was believed that scientific knowledge ought to be used for the good of the king or queen"
+
+
+
+- astounding (reaction: impact) - "how could the word 'scientist' not have existed until 1833?"
+- revolutionary (valuation) - "pledged to bring about, and what's so amazing about these guys is, not only did they have these grandiose undergraduate dreams"
+- difficult (reaction: quality) - "but these calculations were really difficult."
+- accurate (composition: quality) - "Babbage's difference engine was the first mechanical calculator devised to accurately compute any of these tables."
+- amazing (reaction: impact) - "These were brilliant, driven men who accomplished amazing things."
+- tragic (reaction: quality) - "Tragically, Babbage's engines never were built in his day"
+- ungentlemanly (valuation) - "which had been discontinued by the Royal Society as being ungentlemanly"
+- important (reaction: impact) - "Richard Jones became an important economist"
+- practical (composition: complexity) - "because they believed these engines would have a huge practical impact on society."
+
+These values have been assigned based on the context they appear in within the text, and represent an interpretation of those instances as instances of evaluative language.
+
+
+Based on the Appraisal Theory by Martin and White (2005) and the subcategories mentioned, here are the evaluative linguistic instances found in the provided text:
+
+
+1. shocked (disinclination - fear)
+2. angryunhappiness - antipathy)
+3. blew me away (satisfaction - pleasure)
+4. amazing (happiness - cheer)
+5. complained (dissatisfaction - displeasure)
+6. impressed (satisfaction - pleasure)
+7. dismayed (unhappiness - misery)
+
+
+1. talented (social esteem - capacity)
+2. brilliant (social esteem - capacity)
+3. driven (social esteem - tenacity)
+4. productive (social esteem - capacity)
+5. important (social esteem - normality)
+6. professional (social esteem - capacity)
+7. difficult (social esteem - capacity)
+8. accurate (social sanction - veracity)
+9. populating (social esteem - normality)
+10. gentleman's club (social esteem - normality)
+11. encouarged (social sanction - propriety)
+12. tragic (social esteem - normality)
+13. less wealthy (social esteem - capacity)
+
+
+1. muddied (reaction - quality)
+2. watershed moment (reaction - impact)
+3. amazing things (reaction - impact)
+4. popular (reaction - impact)
+5. excellent (reaction - quality)
+6. useful (reaction - quality)
+7. shocking (reaction - impact)
+
+Please note that this annotation is a subjective process and can vary depending on context and interpretation. Also, not all instances of evaluative language may explicitly fit into the provided sub-values, as some instances can be ambiguous or carry multiple layers of appraisal.

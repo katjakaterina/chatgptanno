@@ -1,0 +1,96 @@
+Here's a list of evaluative linguistic instances corresponding to Affect, Judgement, and Appreciation along with their sub-values, as identified in the given text:
+
+Affect:
+- extraordinary (happiness, cheer)
+-lessness (unhappiness, misery)
+- energizing (satisfaction, interest)
+- loving (happiness, affection)
+- difficult (dissatisfaction, displeasure)
+- special (happiness, cheer)
+- proud (security, confidence)
+- devastated (unhappiness, misery)
+- outraged (unhappiness, antipathy)
+- caring (security, trust)
+- energizing (satisfaction, pleasure)
+
+Judgement:
+- tough (social esteem, tenacity)
+- strong (social esteem, capacity)
+- powerful (social esteem, capacity)
+- compassionate (social sanction, propriety)
+- disenfranchises (social sanction, propriety)
+- innocent (social sanction, veracity)
+- privileged (social esteem, capacity)
+
+Appreciation:
+- fantastic (reaction, quality)
+- meaningful (reaction, impact)
+- interesting (reaction, impact)
+- unfairness (reaction, quality)
+- creativity (composition, complexity)
+- inspiring (reaction, impact)
+- hopeful (reaction, impact)
+- stunning (reaction, impact)
+
+Please note that the interpretation of evaluative language can vary according to the context and the analyst's perspective, and some instances might be subject to different interpretations. This is a comprehensive approach based on the information given in the prompt.
+
+
+Here is a list of evaluative linguistic instances associated with Affect, Judgement, and Appreciation, according to Martin and White's (2005) Appraisal Theory. Each instance is assigned one of the sub-values as indicated by you:
+
+
+1. extraordinary honor (happiness: affection)
+2. hopelessness (unhappiness: misery)
+3. energizing (satisfaction: pleasure)
+4. loving (happiness: affection)
+5. tough (security: confidence)
+6. special (satisfaction: interest)
+7. devastated (unhappiness: misery)
+8. proud (satisfaction: pleasure)
+9. tired (dissatisfaction: displeasure)
+10. brave (security: confidence)
+11. suffering (unhappiness: misery)
+12. despair (unhappiness: antipathy)
+13. hopelessness (unhappiness: misery)
+14. comfortable (satisfaction: pleasure)
+15. challenging (insecurity: disquiet)
+16. empowered (satisfaction: pleasure)
+17. outraged (unhappiness: antipathy)
+18. worried (insecurity: apprehension)
+
+
+1. compassionate teacher (social esteem: capacity)
+2. caring doctor (social esteem: capacity)
+3. innocent (social sanction: propriety)
+4. admired (social esteem: normality)
+5. wrongful (social sanction: veracity)
+6. bias and discrimination (social sanction: veracity)
+7. injustice (social sanction: propriety)
+8. disconnected (social esteem: capacity)
+9. disenfranchises (social sanction: propriety)
+10. misconduct (social sanction: veracity)
+11. wrongly convicted (social sanction: veracity)
+12. bias (social sanction: veracity)
+13. distorted (social sanction: veracity)
+14. unfairness (social sanction: propriety)
+15. injustice (social sanction: propriety)
+16. oppressed (social sanction: propriety)
+
+
+1. extraordinary honor (reaction: impact)
+2. great presentations (reaction: quality)
+3. powerful (reaction: impact)
+4. meaningful (reaction: impact)
+5. creative (reaction: quality)
+6. efficient (composition: complexity)
+7. innovation (reaction: quality)
+8. entertaining (reaction: impact)
+9. dynamic (reaction: impact)
+10. dramatic (reaction: impact)
+11. bright and dazzly (reaction: quality)
+12. dark and difficult (reaction: quality)
+13. wonderful (reaction: impact)
+14. positive (valuation)
+15. basic human dignity (valuation)
+16. profound (reaction: impact)
+
+Please note that it's possible to interpret the text in slightly different ways, and another reader might assign some instances to different sub-values based on their understanding of the terms. Additionally, only explicit evaluative instances have been annotated, as per the request to focus on specific linguistic features. Some instances might encompass broader concepts that could potentially fit other appraisal categories or sub-values but have been assigned the most directly pertinent sub-value for clarity.
